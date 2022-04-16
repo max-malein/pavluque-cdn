@@ -1,0 +1,20 @@
+.sizechart {
+    width: 100%;
+  }
+  
+  .sizechart th {
+    background-color: lightgray;
+  }
+  
+  .sizechart td,
+  .sizechart th {
+    border-collapse: collapse;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .sizechart td:first-of-type {
+    font-weight: bold;
+  }
+  
