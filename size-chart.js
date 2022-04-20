@@ -1,4 +1,4 @@
-let buydiv = document.querySelector(".details-product-purchase");
+let buydiv = document.querySelector(".product-details__action-panel");
 let tableDiv = document.createElement("div");
 buydiv.parentNode.insertBefore(tableDiv, buydiv);
 let table = document.createElement("table");
